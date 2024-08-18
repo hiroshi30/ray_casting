@@ -1,5 +1,5 @@
 # Ray Casting
-## Instalation
+## Installation
 ```bat
 pip install -r requiremets.txt
 ```
